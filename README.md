@@ -1,4 +1,4 @@
-![logo](https://github.com/CyberPlatoon/CyberPlatoon/blob/main/234524.jpg)
+![logo](https://github.com/CyberPlatoon/CyberPlatoon/blob/main/2345244(1).jpg)
 
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">A passionate Ethical hacker and Python Developer from India</h3>
